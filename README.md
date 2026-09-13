@@ -119,6 +119,6 @@ git clone https://github.com/shirinsinha23/WordPattern.git
 
 **Shirin Sinha**
 
-B.Tech Computer Science & Engineering Student
+B.Tech Computer Science & Engineering Student(CSE'27)
 
 GitHub: [@shirinsinha23](https://github.com/shirinsinha23)
