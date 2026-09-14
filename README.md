@@ -121,6 +121,6 @@ git clone https://github.com/shirinsinha23/WordPattern.git
 
 B.Tech Computer Science & Engineering Student(CSE'27)
 
-From Sharda University, Greater Noida, Uttar Pradesh
+From Sharda University, Greater Noida, Uttar Pradesh-201310
 
 GitHub: [@shirinsinha23](https://github.com/shirinsinha23)
