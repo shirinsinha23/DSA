@@ -1,126 +1,58 @@
-# Word Pattern
+# 🚀 Data Structures & Algorithms — LeetCode
 
-A Java solution for the **Word Pattern** problem using HashMap to determine whether a string of words follows a given character pattern.
+Welcome to my **Data Structures & Algorithms (DSA)** repository.
 
-## 📌 Problem Statement
+This repository contains my **LeetCode problem-solving journey**, with solutions implemented in Java. I am consistently practicing DSA to improve my problem-solving skills and prepare for technical interviews and coding assessments.
 
-Given a pattern and a string `s`, determine whether `s` follows the same pattern.
+I will continue adding new LeetCode problems and solutions regularly.
 
-A string follows the pattern if there is a one-to-one mapping between each character in the pattern and each word in the string.
+---
 
-### Example
+## 📊 LeetCode Progress
 
-```text
-Input:
-pattern = "abba"
-s = "dog cat cat dog"
+| Category | Problems Solved |
+|---|---:|
+| Arrays | 7 |
+| Strings | 1 |
+| HashMap / HashSet | 1 |
+| Linked List | 2 |
+| Trees | 1 |
+| SQL / Database | 2 |
+| **Total Problems** | **14** |
 
-Output:
-true
-```
+---
+## 🎯 Topics Covered
 
-```text
-Input:
-pattern = "abba"
-s = "dog cat cat fish"
+- Arrays
+- Strings
+- HashMap & HashSet
+- Linked Lists
+- Two Pointers
+- Prefix Sum
+- Graphs & BFS
+- Trees
+- Math
+- SQL
+- Database Problems
 
-Output:
-false
-```
+I'll add more topics as I continue solving problems.
 
-## 💡 Approach
+---
 
-The solution uses two `HashMap`s:
+## 📈 Daily DSA Practice
 
-* **Character → Word** mapping
-* **Word → Character** mapping
+I consistently solve **LeetCode problems** and add my solutions to this repository.
 
-Two maps are required to ensure that the relationship is **one-to-one**.
+> **Consistency → Practice → Problem Solving → Interview Preparation**
 
-### Algorithm
-
-1. Split the input string into individual words.
-2. Check whether the number of words matches the length of the pattern.
-3. Create two HashMaps for both directions of mapping.
-4. Traverse the pattern and words simultaneously.
-5. Check whether the existing mappings are consistent.
-6. If a conflict is found, return `false`.
-7. If all mappings are valid, return `true`.
-
-## 🧠 Example Walkthrough
-
-For:
-
-```text
-pattern = "abba"
-s = "dog cat cat dog"
-```
-
-The mapping becomes:
-
-```text
-a → dog
-b → cat
-b → cat
-a → dog
-```
-
-Since every character consistently maps to the same word and every word maps to the same character, the result is:
-
-```text
-true
-```
-
-## ⏱️ Complexity
-
-* **Time Complexity:** `O(n)`
-* **Space Complexity:** `O(n)`
-
-Where `n` is the number of characters/words being processed.
-
-## 🛠️ Technologies Used
-
-* Java
-* HashMap
-* Data Structures & Algorithms
-
-## 📂 Project Structure
-
-```text
-WordPattern/
-│
-└── 290-word-pattern/
-    └── WordPattern.java
-│
-└── README.md
-```
-
-## 🚀 How to Run
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/shirinsinha23/WordPattern.git
-```
-
-2. Open the project in IntelliJ IDEA, Eclipse, VS Code, or any Java-supported IDE.
-
-3. Compile and run the Java solution.
-
-## 🎯 Key Concepts
-
-* HashMap
-* Hashing
-* String Manipulation
-* One-to-One Mapping
-* Data Structures & Algorithms
+---
 
 ## 👩‍💻 Author
 
 **Shirin Sinha**
 
-B.Tech Computer Science & Engineering Student(CSE'27)
+B.Tech CSE Student | Java Developer | DSA Learner
 
-From Sharda University, Greater Noida, Uttar Pradesh-201310.
+---
 
-GitHub: [@shirinsinha23](https://github.com/shirinsinha23)
+⭐ Follow along with my DSA journey as I continue solving and learning.
