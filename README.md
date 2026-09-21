@@ -2,48 +2,50 @@
 
 Welcome to my **Data Structures & Algorithms (DSA)** repository.
 
-This repository contains my **LeetCode problem-solving journey**, with solutions implemented in Java. I am consistently practicing DSA to improve my problem-solving skills and prepare for technical interviews and coding assessments.
+This repository contains my **LeetCode problem-solving journey**, with solutions implemented in **Java**. I am consistently practicing DSA to strengthen my problem-solving skills and prepare for **technical interviews and coding assessments**.
 
-I will continue adding new LeetCode problems and solutions regularly.
+I will continue adding new LeetCode problems and solutions as I progress.
 
 ---
 
 ## 📊 LeetCode Progress
 
-| Category | Problems Solved |
-|---|---:|
-| Arrays | 7 |
-| Strings | 1 |
-| HashMap / HashSet | 1 |
-| Linked List | 2 |
-| Trees | 1 |
-| SQL / Database | 2 |
-| **Total Problems** | **14** |
+| Metric                       |           Progress |
+| ---------------------------- | -----------------: |
+| **LeetCode Problems Solved** |             **25** |
+| Language                     |               Java |
+| Repository                   |               DSA  |
 
 ---
+
 ## 🎯 Topics Covered
 
-- Arrays
-- Strings
-- HashMap & HashSet
-- Linked Lists
-- Two Pointers
-- Prefix Sum
-- Graphs & BFS
-- Trees
-- Math
-- SQL
-- Database Problems
+* Arrays
+* Strings
+* HashMap & HashSet
+* Linked Lists
+* Trees
+* Graphs & BFS
+* Two Pointers
+* Prefix Sum
+* Sliding Window
+* Binary Search
+* Backtracking
+* Math
+* SQL
+* Database Problems
 
-I'll add more topics as I continue solving problems.
+> More topics will be added as I continue solving problems.
 
 ---
 
-## 📈 Daily DSA Practice
+## 📈 DSA Practice
 
-I consistently solve **LeetCode problems** and add my solutions to this repository.
+I regularly solve LeetCode problems and add my solutions to this repository.
 
-> **Consistency → Practice → Problem Solving → Interview Preparation**
+**Consistency → Practice → Problem Solving → Interview Preparation**
+
+My goal is to gradually improve my understanding of **data structures, algorithms, patterns, and problem-solving techniques** through consistent practice.
 
 ---
 
@@ -53,6 +55,6 @@ I consistently solve **LeetCode problems** and add my solutions to this reposito
 
 B.Tech CSE Student | Java Developer | DSA Learner
 
----
+⭐ Follow my DSA journey as I continue solving, learning, and improving my problem-solving skills.
 
-⭐ Follow along with my DSA journey as I continue solving and learning.
+🔗 [GitHub DSA Repository](https://github.com/shirinsinha23/DSA)
