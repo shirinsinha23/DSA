@@ -12,7 +12,7 @@ I will continue adding new LeetCode problems and solutions as I progress.
 
 | Metric                       |           Progress |
 | ---------------------------- | -----------------: |
-| **LeetCode Problems Solved** |             **25** |
+| **LeetCode Problems Solved** |             **28** |
 | Language                     |               Java |
 | Repository                   |               DSA  |
 
