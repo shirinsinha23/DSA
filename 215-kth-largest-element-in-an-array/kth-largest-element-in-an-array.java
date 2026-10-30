@@ -6,7 +6,7 @@ class Solution {
         );
         for(int num:nums){
             
-             pq.add(num);
+            pq.add(num);
             
             
         }
